@@ -1,4 +1,4 @@
-# Advanced Password Generator
+# Random Password Generator
 
 ## Overview
 The Advanced Password Generator is a graphical application developed using Python's Tkinter library. It provides users with a tool to generate strong and secure passwords based on their preferences for length and character types (letters, numbers, symbols). The application also includes a feature to copy the generated password to the clipboard for easy use.
